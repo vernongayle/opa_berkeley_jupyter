@@ -1,9 +1,9 @@
-### Repository for the Office of Planning & Analysis, UC Berkeley, March 2020
+### Repository for the Office of Planning & Analysis, UC Berkeley
 
 
-### Workshop (October 2018) <br>
+### Workshop (March 2020) <br>
 
-### A short workshop led by Professor Vernon Gayle, University of Edinburgh (UK) <br>
+### A short [NCRM](https://www.ncrm.ac.uk/about/) workshop led by Professor Vernon Gayle, University of Edinburgh (UK) <br>
  <br>
 <span style="color:grey">Material developed by Professor Vernon Gayle, University of Edinburgh and Dr Roxanne Connelly, University of York (https://github.com/roxanneconnelly).</span> <br>
 
